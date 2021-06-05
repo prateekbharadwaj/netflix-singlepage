@@ -4,7 +4,7 @@
 <img src = "public/netflixgif.gif"/>
 
 # Node Packages
-React-Youtube, React-indiana-drag-scroll, movie-trailer
+React-Youtube, movie-trailer
 
 # Installation
 Use npm to install dependencies
